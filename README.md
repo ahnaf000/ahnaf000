@@ -1,6 +1,11 @@
-### Hi there 👋
+<!--### Hi there 👋
 <h1 align="center">Hi 👋, I'm Ahnaf</h1>
-<h3 align="center">A tech enthusiast always looking to expand knowledge base and learning about the inner working of technologies, with experience ranging from working with AR/VR solutions, Full stack web development in Nest.js and React, Bg Data solutions like kafka, spark, and orchestrating tools like Airflow and Kubernetes.</h3>
+
+- 🔭 I’m currently working as a 
+    - Data Scient Intern at GEODIS
+    - Full Stack Developer at Tixplorer (early stage startup)
+    - Computer Vision RA at Mura Lab @ UW-Madison
+    - TA for CS544: Big Data Systems @ UW-Madison
 
 - 🌱 I’m currently learning **Kubernetes for creating an MLOps pipeline at my internship. I am also learning about optimizing workload on a Nest.js server for a startup I work with.**
 
