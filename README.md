@@ -1,13 +1,15 @@
-<!--### Hi there 👋
+<!--### Hi there 👋-->
 <h1 align="center">Hi 👋, I'm Ahnaf</h1>
 
-- 🔭 I’m currently working as a 
+- 🔭 I’m currently working as
     - Data Scient Intern at GEODIS
     - Full Stack Developer at Tixplorer (early stage startup)
     - Computer Vision RA at Mura Lab @ UW-Madison
     - TA for CS544: Big Data Systems @ UW-Madison
 
-- 🌱 I’m currently learning **Kubernetes for creating an MLOps pipeline at my internship. I am also learning about optimizing workload on a Nest.js server for a startup I work with.**
+- 🌱 I’m currently learning 
+    - Kubernetes for creating an MLOps pipeline at my internship. 
+    - Optimizing workload on a Nest.js server.
 
 - 📫 How to reach me **https://www.linkedin.com/in/ahnaf-kabir-2590921b9/**
 
