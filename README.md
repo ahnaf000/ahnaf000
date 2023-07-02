@@ -11,7 +11,7 @@
     - Kubernetes for creating an MLOps pipeline at my internship. 
     - Optimizing workload on a Nest.js server.
 
-## Connect with me:
+### Connect with me:
 - LinkedIn: [Ahnaf Kabir](https://www.linkedin.com/in/ahnaf-kabir-2590921b9/)
 
 <h3 align="left">Languages and Tools:</h3>
